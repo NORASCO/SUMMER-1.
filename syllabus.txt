@@ -1,0 +1,32 @@
+LINUS SUMMER COURSE;
+
+1.How to send professesional email,
+2. projects list
+3.  html , css
+4. project and start javascript week 2
+5. javascipt week 3,
+6. javascript week 4 javascript project
+7. project (A) week 5
+8. boostrap and joomla wordpress week 6
+9. react week 7
+10. nodejs week 8
+11.data base week 9
+12. project 1 withme
+13. project  2 remote
+14. portfolio  remote
+
+MODEL OF COMMUNICATION 
+1.Email
+
+MODEL OF CONDUCT PROJECT
+Github
+-create  three directories
+       *UI
+       *Frontend
+       *Backend
+-Create three branches
+     *develop
+     *feature
+     *master
+-Add colaborator   
+   *@Kijacode
