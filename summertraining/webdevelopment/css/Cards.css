@@ -1,0 +1,131 @@
+.container-1 , .container-2 {
+    display: flex;
+    background-color: white;
+    font-family: 'Gayathri', sans-serif;
+    
+}
+.container-1 {
+    padding-top: 50px;
+    text-align: center;
+}
+.box1 {
+          flex: 30;
+          text-align: right;
+}
+.box2 {
+    flex: 9;
+
+}
+.box3 {
+flex: 9;
+text-align: left;
+}
+.box4 {
+    flex: 9;
+    text-align: left;
+}
+.box5 {
+   flex: 9;
+   text-align: left;
+}
+.box6 {
+    flex: 9;
+
+}
+.box-1 {
+    order: 2;
+    background-color:white;
+    margin-top: 20px;
+    border-radius: 5px;
+    
+   
+
+}
+.box-2 {
+    order: 2;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 30px rgba(255, 255,255, 2);
+    
+
+}
+.box-3 {
+    order: 2;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 0px rgba(255, 255,255, 2);
+
+
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h2,h3 {
+    color: red;
+    text-align: center;
+}
+.container-2 {
+    background-color: grey;
+    margin-left: 190px;
+    margin-right: 190px;
+    text-align: justify;
+    line-height: 30px;
+}
+#apply {
+    background-color:crimson;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+    bottom: 35px;
+    color: white;
+    border: solid crimson;
+}
+#apply:hover {
+    color: darkcyan;
+
+}
+body{
+    background-color: grey;
+}
+#first, #last{
+    position: relative;
+    top: 120px;
+    padding: 20px;
+}
+#money{
+    position: relative;
+    top: 90px;
+}
+#page{
+    position: relative;
+    top: 130px;
+}
+#monthly{
+    position: relative;
+    top: 20px;
+}
+#mone{
+    position: relative;
+    top: 70px;
+}
+p{
+    position: relative;
+    top: 90px;
+    padding: 20px;
+
+}
+#top{
+    color: black;
+    font-size: 10px;
+    position: relative;
+    bottom: 30px;
+}
+#page1,#page3 {
+    position: relative;
+    top: 150px;
+}
+a:hover{
+    color: rebeccapurple;
+}

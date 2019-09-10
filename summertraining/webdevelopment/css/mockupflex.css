@@ -1,0 +1,35 @@
+.all{
+    background-color: blue;
+    color: black;
+    font: bold;
+    font-size: 20px;
+}
+h1{
+    color: brown;
+    font: bold;
+    text-align: center;
+}
+a{
+    height: 50px;
+    background-color:yellow;
+    color: white;
+    padding-left:  10px;
+    margin-left: 10%;
+    
+}
+.one{
+    background-color:green;
+    float: right;
+    text-align: center;
+    color: red;
+}
+.two{
+    text-align: center;
+    background-color:black;
+    color: red;
+}
+.three{
+    background-color: chartreuse;
+    margin-top: 300px;
+    padding-bottom: 300px;
+}
