@@ -1,0 +1,56 @@
+.top{
+    background-color:black;
+    color: white;
+    text-align: right;
+    flex:dispay;
+}
+#navtop{
+text-align: left;
+    color: orange; 
+}
+#yellow{
+    color:red;
+    text-align: center;
+    font-size: 100px;
+}
+.SECT{
+    background-color:blue;
+    text-align: center;
+    color: white;
+    flex:dispay;
+}
+.one{
+    float: left;
+    color: green;
+    background-color: red;
+    width: 10%;
+}
+.two{
+    text-align: center;
+    color: white;
+    background-color: brown;
+    width:15%;
+}
+.three{
+    float: right;
+    color: white;
+    background-color: black;
+}
+#page1{
+    text-align: center;
+    color: white;
+    background:blue;
+}
+#product1{
+    text-align: center;
+
+}
+.down{
+    background-color: darkgreen;
+}
+}
+.middle{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}

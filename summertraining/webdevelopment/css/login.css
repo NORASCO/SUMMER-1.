@@ -1,0 +1,146 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 190px;
+    font-family: 'Gayathri', sans-serif;
+}
+.container-1{
+    color: black;
+    order: 2;
+    background-color: white;
+    color: white;
+    flex-direction: column;
+}
+form {
+    padding-bottom: 10px;
+    color: white;
+    text-align: center;
+}
+#one{
+    text-align: left;
+    color:red;
+    font-size: 15px;
+}
+#two{
+    text-align: left;
+    color: red;
+    font-size: 15px;
+}
+h2{
+    color: white;
+    font-size: 15px;
+    text-align: left;
+}
+#ema{
+    background-color:white;
+    font-size: 16px;
+    text-align: left;
+    border: 1.2px solid red;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    padding-right: 50px;
+    padding-left: 10px;
+    opacity: 0.7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#pass{
+    background-color:white;
+    font-size: 16px;
+    text-align: left;
+    border: 1.2px solid red;
+    border-radius: 5px;
+    margin-right: px;
+    padding-right: 50px;
+    padding-left: 10px;
+    opacity: 0.7;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+   
+}
+.container-2 {
+    text-align:center;
+    order: 2;
+    background-color: whitesmoke;
+    color: white;
+}
+.two-1 {
+    background-color: #0B5345;
+    color: whitesmoke;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 17px;
+    border: solid #0B5345;
+}
+label {
+    box-align: left;
+}
+.BOX {
+    text-align: left;
+    font-size: 20px;
+    background-color:rgba(0, 139,139, 1);
+    color: white;
+    order: 2;
+}
+.baton {
+    background-color:whitesmoke;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    
+
+}
+
+.one-1 {
+    background-color:rgba(0, 139,139, 1);
+    color: white;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 85px;
+    padding-right: 85px;
+    font-size: 17px;
+    border: solid rgba(0, 139,139, 1);
+}
+#lab-1{
+    margin-top: 10;
+    border-radius: 8px;
+}
+p{
+    color: red;
+    text-align: center;
+}
+#batoni{
+    color:whitesmoke;
+    font-size: 25px;
+}
+a{
+    color: rgba(0, 139,139, 2);
+    text-decoration: none;
+    position: relative;
+    left: 140px;;
+}
+#photo{
+    padding-left: 20px;
+}
+footer{
+    position: relative;
+    top: 440px;
+    left: 20px;;
+}
+#last{
+    position: relative;
+    right: 90px;
+    top: 35px;
+    color: black;
+}
+img{
+    position: sticky;
+}

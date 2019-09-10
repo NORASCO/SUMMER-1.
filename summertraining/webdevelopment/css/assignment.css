@@ -1,0 +1,25 @@
+.heading{
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+}
+.middle{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    margin: 0 auto;
+}
+#capital{
+    color: blue;
+
+}
+strong{
+    color: greenyellow;
+}
+u{
+    color: red;
+}
+tittle{
+    color: coral
+}
